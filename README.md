@@ -20,5 +20,3 @@ This project explores the detection of anomalies in critical soil health attribu
 - **Recommendations:** Develop actionable strategies to mitigate anomalies and restore soil balance.  
 
 ---
-
-## 📂 Project Structure  
